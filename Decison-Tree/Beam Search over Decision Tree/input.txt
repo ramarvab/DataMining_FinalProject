@@ -1,0 +1,10 @@
+..\cleaned\car car i 10 1
+..\cleaned\car car g 10 1
+..\cleaned\car car i 10 5
+..\cleaned\car car g 10 5
+..\cleaned\car car i 10 9
+..\cleaned\car car g 10 9
+..\cleaned\car car i 10 13
+..\cleaned\car car g 10 13
+..\cleaned\car car i 10 17
+..\cleaned\car car g 10 17

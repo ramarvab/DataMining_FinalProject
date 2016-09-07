@@ -1,0 +1,20 @@
+car,i,0.793333333333
+car,g,0.80
+# 300 with replacement
+car,i,0.80
+car,g,0.82
+# 600 with replacement
+car,i,0.805
+car,g,0.843333333333
+# 900 without replacement
+car,i,0.780833333333
+car,g,0.778333333333
+# 1200 without replacement
+car,i,0.780666666667
+car,g,0.760666666667
+# 1500 without replacement
+car,i,0.794444444444
+car,g,0.781111111111
+# 1800 without replacement
+car,i,0.906666666667
+car,g,0.923333333333

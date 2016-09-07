@@ -1,0 +1,5 @@
+name, method, class, f1_score
+car,i,0,0.928315412186
+car,i,1,0.047619047619
+car,g,0,0.930481283422
+car,g,1,0

@@ -1,0 +1,5 @@
+name, method, class, balanced_accuracy
+car,i,0,0.5
+car,i,1,0.5
+car,g,0,0.5
+car,g,1,0.5
